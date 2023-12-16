@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İhsan</h1>
+<h1 align="center">Hi 🙌, I'm İhsan</h1>
 <h3 align="center">Electric and Electronics Engineer & QA Tester</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mithrili?tab=repositories](https://github.com/mithrili?tab=repositories)
