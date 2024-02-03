@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🙌, I'm İhsan</h1>
-<h3 align="center">Electric and Electronics Engineer & QA Tester</h3>
+<h3 align="center">QA Tester</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mithrili?tab=repositories](https://github.com/mithrili?tab=repositories)
 
-- 📫 How to reach me **altnskihsan@gmail.com**
+- 📫 How to reach me **ihsan.altunsk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
